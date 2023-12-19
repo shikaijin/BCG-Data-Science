@@ -1,3 +1,5 @@
+## BCG Data Science Job Simulation on Forage                                                                                                                    
+
 I just completed BCG's Data Science on Forage. In the simulation I:
 
 * Completed a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
